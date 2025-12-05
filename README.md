@@ -1,8 +1,7 @@
-# MouloudBakir01-netizen
-
 **🧑‍💻 Mouloud BAKIR — Web Developer & Fullstack Student**
 
 **Bienvenue sur mon GitHub !**
+
 Je suis Mouloud Bakir, étudiant en Bachelor Concepteur Développeur d’Applications à l’ETNA et passionné par le développement web.
 Ancien commercial dans le digital, j’ai évolué au contact d’équipes IT et découvert une passion pour la tech qui m’a conduit à me réorienter vers le développement fullstack.
 
